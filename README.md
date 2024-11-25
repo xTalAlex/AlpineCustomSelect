@@ -29,3 +29,12 @@ Any attribute is inherited by the root element.
 ## Examples
 
 Check the _examples_ folder in this repository
+
+## Accessibility
+
+https://www.freecodecamp.org/news/how-to-build-an-accessible-custom-dropdown-select-element/
+
+### todo
+
+- Entering alphanumeric keys when the dropdown is open highlights the option that matches the entered letters. If there's no match, nothing changes.
+- When the select element is focused when using a screen reader, the screen reader announces that it's a select element and provides information about the currently selected value for accessibility.
